@@ -54,6 +54,7 @@ describe("Registro de Imagem", () => {
     })
 
     it("E devo ver um ícone de exclamação nos campos de título e URL", () => {
+      
     })
   })
 })
